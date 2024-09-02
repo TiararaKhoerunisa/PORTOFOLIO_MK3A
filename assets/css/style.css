@@ -2,12 +2,12 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #f4f4f4;
+    background-color: #dd9595;
 }
 
 header {
     background-color: #333;
-    color: #f7a8a8;
+    color: #fff;
     padding: 10px 0;
     text-align: center;
 }
@@ -28,7 +28,7 @@ nav ul li {
 }
 
 nav ul li a {
-    color: #4e1717;
+    color: #fff;
     text-decoration: none;
 }
 
@@ -36,7 +36,7 @@ nav ul li a {
     background-image: url('hero-bg.jpg');
     background-size: cover;
     background-position: center;
-    color: #692b2b;
+    color: #fff;
     height: 100vh;
     display: flex;
     align-items: center;
@@ -60,7 +60,7 @@ nav ul li a {
 
 .btn {
     background-color: #e50914;
-    color: #da7e7e;
+    color: #fff;
     padding: 10px 20px;
     text-decoration: none;
     border-radius: 5px;
@@ -87,7 +87,7 @@ section h2 {
 }
 
 .movie {
-    background-color: #c77373;
+    background-color: #fff;
     padding: 20px;
     margin: 10px;
     border-radius: 10px;
@@ -103,7 +103,7 @@ section h2 {
 
 footer {
     background-color: #333;
-    color: #834545;
+    color: #fff;
     text-align: center;
     padding: 20px 0;
 }
